@@ -103,3 +103,10 @@ a[2] = 8 and  a[2] <51.
 Step 4 :- First index = 9, last index = 9, mid index = 9
 a[9] = 99.
 !output]
+
+![binary6](https://user-images.githubusercontent.com/69747236/90371681-eded0c00-e08c-11ea-96b4-54d77f2b3895.JPG)
+
+![binaryR14](https://user-images.githubusercontent.com/69747236/90371682-ef1e3900-e08c-11ea-871c-03da156baa37.JPG)
+
+![binary99](https://user-images.githubusercontent.com/69747236/90371684-efb6cf80-e08c-11ea-8907-5862ff90c1f5.JPG)
+
