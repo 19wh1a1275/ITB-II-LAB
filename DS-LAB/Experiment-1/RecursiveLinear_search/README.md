@@ -85,3 +85,7 @@ The search reaches the last element of the array but as no element is matched th
 	
 	![output]
 
+![linearWR66](https://user-images.githubusercontent.com/69747236/90370777-8f735e00-e08b-11ea-9dc4-f55c8a770cd5.JPG)
+
+![linearWR0](https://user-images.githubusercontent.com/69747236/90370781-90a48b00-e08b-11ea-870e-db4625681791.JPG)
+
