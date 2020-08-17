@@ -82,5 +82,6 @@ OUTPUT 2 [KEY ELEMENT = 0]:
 
 We check each element of the given array against the given key element is 0.
 The search reaches the last element of the array but as no element is matched the search ends here. Therefore, the search in unsuccessful as the element is not present.
+	
 	![output]
 
